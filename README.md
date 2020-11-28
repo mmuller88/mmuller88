@@ -1,4 +1,4 @@
-<img src="/BannerTransparent.png" alt="banner" />
+<img src="https://martinmueller.dev/static/84caa5292a6d0c37c48ae280d04b5fa6/e3fce/joint.jpg" alt="banner" />
 
 ### Hi there and welcome to my GitHub page 👋
 
