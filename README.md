@@ -12,8 +12,8 @@ My name is Martin Müller and I am a Full Stack Developer from Germany. I like t
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="AWS certified" src="https://img.shields.io/badge/AWS-CC6699?logo=aws-certified&logoColor=white&style=for-the-badge" />
-  <img alt="K8s" src="https://img.shields.io/badge/K8s-1572B6?logo=k8s&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-CC6699?logo=aws&logoColor=white&style=for-the-badge" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-1572B6?logo=kubernetes&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-61DAFB?logo=typescript&logoColor=white&style=for-the-badge" />
