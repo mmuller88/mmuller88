@@ -10,7 +10,7 @@ My name is Martin Müller and I am a Full Stack Developer from Germany. I like t
 
 ### What do I do?
 
-[<img src="https://images.youracclaim.com/size/100x100/images/b158bae7-462e-4c2c-92e6-d7a0b4cdb6c6/AWS-SolArchitect-Professional.png">](https://www.youracclaim.com/badges/519848e5-985f-479c-9564-548b5af67b34) (click for verify)
+[<img src="https://images.youracclaim.com/size/100x100/images/b158bae7-462e-4c2c-92e6-d7a0b4cdb6c6/AWS-SolArchitect-Professional.png">](https://www.youracclaim.com/badges/519848e5-985f-479c-9564-548b5af67b34) <-- (click for verify)
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-1572B6?logo=kubernetes&logoColor=white&style=for-the-badge" />
