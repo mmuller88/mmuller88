@@ -22,7 +22,7 @@ My name is Martin Müller and I am a Full Stack Developer from Germany. I like t
   <img alt="Alfresco" src="https://img.shields.io/badge/Alfresco-008000?logo=alfresco&logoColor=white&style=for-the-badge" />
 </p>
 
-- I write a tech blog <a href="https://martinmueller.dev">Take a look</a>!
+- I write a tech blog [martinmueller.dev](martinmueller.dev) Take a look!
 
 ---
 
