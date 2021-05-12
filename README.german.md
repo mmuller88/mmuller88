@@ -1,6 +1,6 @@
 <img src="https://martinmueller.dev/static/84caa5292a6d0c37c48ae280d04b5fa6/e3fce/joint.jpg" alt="banner" />
 
-Lies in einer anderen Sprache: [![DE](/assets/flags/ENG.png)**ENG**](/README.md)
+Lies in einer anderen Sprache: [![ENG](/assets/flags/ENG.png)**ENG**](/README.md)
 ### Hallo und willcommen zu meiner GitHub Page 👋
 
 Begeisterter Full Stack Entwickler. Ich mag es viele unterschiedliche und nützliche Informatiker Fähigkeiten zu besitzen. Vom Entwickeln des Backendsund Frontend geschrieben in Java, JavaScript oder jeder anderen Sprache bis zum Kreieren der kostoptimierten Cloud Infrastrukturlösungen. Ich suche nach neuen und spannenden Herausforderungen.
@@ -11,7 +11,7 @@ Begeisterter Full Stack Entwickler. Ich mag es viele unterschiedliche und nützl
 
 ### Was mache ich?
 
-[<img src="https://images.youracclaim.com/size/100x100/images/b158bae7-462e-4c2c-92e6-d7a0b4cdb6c6/AWS-SolArchitect-Professional.png">](https://www.youracclaim.com/badges/519848e5-985f-479c-9564-548b5af67b34) <-- (click for verify)
+[<img src="https://images.youracclaim.com/size/100x100/images/b158bae7-462e-4c2c-92e6-d7a0b4cdb6c6/AWS-SolArchitect-Professional.png">](https://www.youracclaim.com/badges/519848e5-985f-479c-9564-548b5af67b34) <-- (hier klicken zum verfizieren)
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-1572B6?logo=kubernetes&logoColor=white&style=for-the-badge" />
