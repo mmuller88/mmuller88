@@ -1,15 +1,15 @@
 <img src="https://martinmueller.dev/static/84caa5292a6d0c37c48ae280d04b5fa6/e3fce/joint.jpg" alt="banner" />
 
-Read in a different language: [![DE](/assets/flags/GER.png)**GER**](/README.german.md)
-### Hi there and welcome to my GitHub page 👋
+Lies in einer anderen Sprache: [![DE](/assets/flags/ENG.png)**ENG**](/README.md)
+### Hallo und willcommen zu meiner GitHub Page 👋
 
-My name is Martin Müller and I am a Full Stack Developer from Germany. I like to have a broad collection of skills. From developing the backend and frontend applications written in Java, JavaScript or any other language, until developing a cost optimised cloud infrastructure solution. Enthusiastic agile player with strong communication skills. Looking for taking new challenges and learning new technologies.
+Begeisterter Full Stack Entwickler. Ich mag es viele unterschiedliche und nützliche Informatiker Fähigkeiten zu besitzen. Vom Entwickeln des Backendsund Frontend geschrieben in Java, JavaScript oder jeder anderen Sprache bis zum Kreieren der kostoptimierten Cloud Infrastrukturlösungen. Ich suche nach neuen und spannenden Herausforderungen.
 
-“What I don’t know, I will learn”🤞
+“Was ich nicht weiß, werde ich lernen”🤞
 
 ---
 
-### What do I do?
+### Was mache ich?
 
 [<img src="https://images.youracclaim.com/size/100x100/images/b158bae7-462e-4c2c-92e6-d7a0b4cdb6c6/AWS-SolArchitect-Professional.png">](https://www.youracclaim.com/badges/519848e5-985f-479c-9564-548b5af67b34) <-- (click for verify)
 <p>
@@ -23,13 +23,13 @@ My name is Martin Müller and I am a Full Stack Developer from Germany. I like t
   <img alt="Alfresco" src="https://img.shields.io/badge/Alfresco-008000?logo=alfresco&logoColor=white&style=for-the-badge" />
 </p>
 
-- I write a tech blog [martinmueller.dev](martinmueller.dev) Take a look!
+- Ich schreibe einen Techblog [martinmueller.dev](martinmueller.dev) Schau mal rein!
 
 ---
 
-### Send me a message!
+### Schreib mir!
 
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+- Hast du eine gute Idee wie wir zusammenarbeiten könnten? Dann schreibe mir doch gerne. Hier bin ich erreichbar:
 
 <p>
   <a href="https://twitter.com/MartinMueller_">
@@ -42,6 +42,6 @@ My name is Martin Müller and I am a Full Stack Developer from Germany. I like t
 
 ---
 
-### Github stats
+### Github Statistiken
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuller88&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Martin+Mueller's+GitHub+Stats&show_icons=true" />
