@@ -24,6 +24,7 @@ Begeisterter Full Stack Entwickler. Ich mag es viele unterschiedliche und nützl
 </p>
 
 - Ich schreibe einen Techblog [martinmueller.dev](martinmueller.dev) Schau mal rein!
+- 2022 Wurde zu einem AWS Community Builder erwählt.
 
 ---
 
