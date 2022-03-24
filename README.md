@@ -25,6 +25,7 @@ My name is Martin Müller and I am a Full Stack Developer from Germany. I like t
 </p>
 
 - I write a tech blog [martinmueller.dev](martinmueller.dev) Take a look!
+- 2022 Got elected to an AWS Community Builder
 
 ---
 
