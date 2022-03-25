@@ -46,3 +46,7 @@ Begeisterter Full Stack Entwickler. Ich mag es viele unterschiedliche und nützl
 ### Github Statistiken
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuller88&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Martin+Mueller's+GitHub+Stats&show_icons=true" />
+
+<a href='https://patreon.com/bePatron?u=29010217' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/mmuller88/mmuller88/main/patreon.png' border='0' alt='Become a Patreon!' /></a>
+
+<a href='https://ko-fi.com/T6T1BR59W' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
