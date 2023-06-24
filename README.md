@@ -1,4 +1,3 @@
-[![Prowler Video](https://img.youtube.com/vi/4JYaGylXEMc/0.jpg)](https://www.youtube.com/watch?v=4JYaGylXEMc)
 <img src="https://martinmueller.dev/static/84caa5292a6d0c37c48ae280d04b5fa6/e3fce/joint.jpg" alt="banner" />
 
 Read in a different language: [![DE](/assets/flags/GER.png)**GER**](/README.german.md)
